@@ -63,7 +63,7 @@ Technologies: React · JavaScript · Redux · REST APIs
 
 My contribution focused on the litter hotspot reporting functionality, including authenticated user information, location selection, litter type and severity, and error handling.
 
-### [Coffee Store Backend](https://github.com/andrinanisbet/coffee-store-backend))
+### [Coffee Store Backend](https://github.com/andrinanisbet/coffee-store-backend)
 
 A collaborative backend application developed as part of my software engineering training.
 
