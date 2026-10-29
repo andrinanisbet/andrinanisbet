@@ -27,7 +27,7 @@ I'm interested in technology that has a practical purpose, particularly where so
 | **Databases** | PostgreSQL · MySQL |
 | **Development & Tools** | Git · GitHub · Docker · IntelliJ IDEA · Swagger / OpenAPI |
 | **Cloud** | AWS |
-| **Security** | Secure software development · DevSecOps |
+| **Security** | Secure software development |
 | **AI / ML** | AI/ML fundamentals · AWS AI |
 
 ## 🎓 Certifications
